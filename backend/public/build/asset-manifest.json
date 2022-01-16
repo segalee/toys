@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48881ab3.css",
+    "main.js": "/static/js/main.d2267a49.js",
+    "static/media/shop.jpg": "/static/media/shop.896080daf05d76f6cedb.jpg",
+    "static/media/Caveat-Regular.ttf": "/static/media/Caveat-Regular.76167cc679e8138706a2.ttf",
+    "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.46e8b3d6aad654578958.ttf",
+    "static/media/toy.jpeg": "/static/media/toy.25833db86957d359e3b6.jpeg",
+    "index.html": "/index.html",
+    "main.48881ab3.css.map": "/static/css/main.48881ab3.css.map",
+    "main.d2267a49.js.map": "/static/js/main.d2267a49.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48881ab3.css",
+    "static/js/main.d2267a49.js"
+  ]
+}
